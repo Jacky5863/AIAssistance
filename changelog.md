@@ -1,4 +1,4 @@
 ## 大神辅助&一键连招模块
-#### [蓝奏云下载](https://wwrj.lanzouw.com/iJ6ug2rf8tuh)
+#### [蓝奏云下载](https://wwrj.lanzouw.com/i1RcQ2rf92ab)
 > v4.0.4—4000004修复
  - 修复一个错误代码导致的可能不生效
